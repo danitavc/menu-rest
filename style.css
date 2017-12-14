@@ -1,0 +1,38 @@
+body {
+	background-color: #2B2B2B;
+}
+
+h1, h4 {
+	color: #DD8334;
+	text-align: center;
+}
+
+.mapa {
+	text-align: center;
+}
+
+iframe {
+	height: 300px;
+	width: auto;
+}
+
+.nav-wrapper {
+	text-align: center;
+	
+}
+
+.label-icon {
+	color: black;
+}
+#search {
+	background-color: #898587;
+}
+
+img {
+	height: 200px;
+	width: auto;
+}
+
+.col.s6 {
+	text-align: center;
+}
